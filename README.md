@@ -12,11 +12,11 @@ In the following examples, we use the initial condition shown in the figure belo
 ![Initial Condition](figures/initial-condition.png)
 
 ## Lax-Wendroff
-The Lax-Wendroff scheme gives the below results (orange) overlayed with the exact solution (blue). 
+The Lax-Wendroff scheme gives the below results (orange) overlayed with the exact solution (blue). The temporal index is denoted as $n$.
 ![Lax-Wendroff](figures/lax-wendroff-anim.gif)
 
 ## Van Leer Flux Limiter 
-The van Leer flux liniter gives the below results (orange) overlayed with the exact solution (blue). 
+The van Leer flux liniter gives the below results (orange) overlayed with the exact solution (blue). The temporal index is denoted as $n$.
 ![Van Leer](figures/flux-limiter-van-leer-anim.gif)
 
 ## Sweby Diagram
