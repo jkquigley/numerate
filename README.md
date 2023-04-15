@@ -9,18 +9,22 @@ This Python package contains code for numerically solving the 1-D advection equa
 
 # Examples and Results
 In the following examples, we use the initial condition shown in the figure below over the spacial interval $[0, 1]$.
+
 ![Initial Condition](figures/initial-condition.png)
 
 ## Lax-Wendroff
 The Lax-Wendroff scheme gives the below results (orange) overlayed with the exact solution (blue). The temporal index is denoted as $n$.
+
 ![Lax-Wendroff](figures/lax-wendroff-anim.gif)
 
 ## Van Leer Flux Limiter 
 The van Leer flux liniter gives the below results (orange) overlayed with the exact solution (blue). The temporal index is denoted as $n$.
+
 ![Van Leer](figures/flux-limiter-van-leer-anim.gif)
 
 ## Sweby Diagram
 The Sweby diagram can be used to find flux limiter functions which yield second-order accurate, TVD schemes.
+
 ![Sweby Diagram](figures/high-resolution-flux-limiters-second-order-tvd-region.png)
 
 # References
