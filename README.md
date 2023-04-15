@@ -22,3 +22,12 @@ The van Leer flux liniter gives the below results (orange) overlayed with the ex
 ## Sweby Diagram
 The Sweby diagram can be used to find flux limiter functions which yield second-order accurate, TVD schemes.
 ![Sweby Diagram](figures/high-resolution-flux-limiters-second-order-tvd-region.png)
+
+# References
+[1] R. J. LeVeque, Finite difference methods for ordinary and partial differential equations, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2007.
+
+[2] R. J. LeVeque, Finite volume methods for hyperbolic problems, Cambridge Texts in Applied Mathematics, Cambridge University Press, Cambridge, England, 2002.
+
+[3] P. K. Sweby, High resolution schemes using flux limiters for hyperbolic conservation laws, SIAM Journal on Numerical Analysis 21 (1984), no. 5, 995–1011, available at [https://doi.org/10.1137/0721062](https://doi.org/10.1137/0721062).
+
+[4] A. Harten, High resolution schemes for hyperbolic conservation laws, Journal of Com- putational Physics 49 (1983), no. 3, 357–393, available at [https://doi.org/10.1016/0021-9991(83)90136-5](https://doi.org/10.1016/0021-9991(83)90136-5).
