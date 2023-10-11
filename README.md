@@ -18,7 +18,7 @@ The Lax-Wendroff scheme gives the below results (orange) overlayed with the exac
 ![Lax-Wendroff](figures/lax-wendroff-anim.gif)
 
 ## Van Leer Flux Limiter 
-The van Leer flux liniter gives the below results (orange) overlayed with the exact solution (blue). The temporal index is denoted as $n$.
+The van Leer flux limiter gives the below results (orange) overlayed with the exact solution (blue). The temporal index is denoted as $n$.
 
 ![Van Leer](figures/flux-limiter-van-leer-anim.gif)
 
